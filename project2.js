@@ -47,7 +47,7 @@ const students = [
     enrollmentDate: "2025-03-20",
   },
   {
-    name: "",
+    name: "leen",
     course: "Machine Learning",
     enrollmentDate: "2025-03-25",
   },
